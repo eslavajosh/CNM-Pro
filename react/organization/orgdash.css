@@ -1,0 +1,52 @@
+
+.org-name-header {
+    height: 20px;
+    top: 1000px;
+    padding-right: 100px;
+    padding-top: 50px;
+    top: 10px;
+    left: 60px;
+}
+
+
+.blog-card-container {
+    position: relative;
+    padding-right: 150px;
+    padding-top: 80px;
+    padding-left: 1000px;
+}
+
+.newsletter-card-container {
+    position: relative;
+    left: 1000px;
+    padding-right: 1150px;
+}
+.col-widget-container{
+    width: 500px;
+    padding-top: 200px;
+}
+
+.react-star-rate {
+    top: 1200px; 
+}
+
+.img-org-logo-header {
+    max-width: 100px;
+    max-height: 35px;
+}
+
+
+
+.col-analytics-container {
+    right: 1000px;
+    position: relative;
+    right: 1525px;
+    top: 20px;
+    float: right;
+}
+
+.date-header {
+    position: relative;
+    bottom: 775px;
+    left: 1500px;
+}
